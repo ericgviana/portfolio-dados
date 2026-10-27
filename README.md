@@ -1,6 +1,6 @@
 # Portfólio de Dados
 
-Olá, eu sou o **Eric Viana**, jornalista de formação e analista de dados em transição de carreira, em Fortaleza (CE). Este repositório reúne os projetos que construo ao longo do meu plano de 120 dias para conquistar minha primeira vaga como **Analista de Dados / BI**.
+Olá,  sou **Eric Viana**, jornalista de formação e analista de dados em transição de carreira, em Fortaleza (CE). Este repositório reúne os projetos que construo ao longo da minha trajetória para conquistar minha primeira vaga como **Analista de Dados / BI**.
 
 ## Por que dados
 
@@ -8,15 +8,15 @@ Há mais de 8 anos trabalho com notícias e comunicação digital. Hoje coordeno
 
 ## Ferramentas
 
-Excel (Power Query e Power Pivot) · SQL · Power BI (DAX e modelagem) · Python (pandas) · Git
+Excel · SQL · Power BI · Python · Git
 
 ## Projetos
 
-| [01-excel](./01-excel) | 15 problemas reais de Excel resolvidos | Excel | Em andamento |
-| 02-power-query | Relatório que atualiza com um clique | Excel, Power Query | Em breve |
-| 03-sql | 25 consultas e análise de dados públicos | SQL | Em breve |
-| 04-power-bi | Relatório publicado e modelo estrela | Power BI | Em breve |
-| 05-python | Análise exploratória e automação | Python, pandas | Em breve |
+| [01-excel](./01-excel) | 15 problemas reais de Excel resolvidos | Excel |
+| 02-power-query | Relatório que atualiza com um clique | Excel, Power Query |
+| 03-sql | 25 consultas e análise de dados públicos | SQL |
+| 04-power-bi | Relatório publicado e modelo estrela | Power BI |
+| 05-python | Análise exploratória e automação | Python, pandas |
 
 ## Como este repositório funciona
 
